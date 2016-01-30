@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ESC Furniture]]></title>
         <description><![CDATA[ESC Furniture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/esc-furniture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 13:54:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 13:55:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/esc-furniture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I don't want a blog</p>]]></description>
+            <link>https://thegrid.ai/esc-furniture/51091d2c-0648-44b8-a569-650b8d7c47ea/index.html</link>
+            <guid isPermaLink="false">51091d2c-0648-44b8-a569-650b8d7c47ea</guid>
+            <pubDate>Sat, 30 Jan 2016 13:54:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photo]]></title>
             <description><![CDATA[<article><h1>Photo</h1><p>I want to add a photo</p></article>]]></description>
-            <link>undefinedphoto/index.html</link>
+            <link>https://thegrid.ai/esc-furniture/photo/index.html</link>
             <guid isPermaLink="false">4b7ac836-1279-499d-a2fc-973b97168067</guid>
             <pubDate>Sat, 30 Jan 2016 13:54:44 GMT</pubDate>
         </item>
