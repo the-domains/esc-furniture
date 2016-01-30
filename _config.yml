@@ -1,0 +1,28 @@
+name: ESC Furniture
+favicon: null
+layout_spectrum: 0.11670696316286922
+typography_spectrum: 0.5180082514416426
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5446898541413248
+  lightness: 0.0406781155616045
+  saturation: 0.21744462731294334
+  rhythmicContrast: 0.2512367172166705
+purpose: []
